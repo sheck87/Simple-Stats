@@ -8,5 +8,7 @@
             "email": "markus.staab@redaxo.de"
         }
     ],
-    "require": {}
+    "require": {
+        "geertw/ip-anonymizer": "^1.0"
+    }
 }
